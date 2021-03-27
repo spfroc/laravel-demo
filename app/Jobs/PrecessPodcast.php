@@ -32,6 +32,6 @@ class PrecessPodcast implements ShouldQueue
     public function handle()
     {
 	    Log::debug("The system is down!");
-	    Log::info("test info");
+	    Log::info("test info~~~");
     }
 }
