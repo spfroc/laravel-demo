@@ -10,7 +10,7 @@ use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
 use Illuminate\Foundation\Events\Dispatchable;
 use Illuminate\Queue\SerializesModels;
 
-class SendNotification implements ShouldBroadcast
+class UserUpdate
 {
     use Dispatchable, InteractsWithSockets, SerializesModels;
 
@@ -31,13 +31,6 @@ class SendNotification implements ShouldBroadcast
      */
     public function broadcastOn()
     {
-        return ['my-channel-1'];
-    }
-
-    public function broadcastWith()
-    {
-        return [
-            'file' => __FILE__
-        ];
+        return new PrivateChannel('channel-name');
     }
 }
