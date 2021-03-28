@@ -1878,9 +1878,6 @@ Echo.join("test.channel");
 Echo.channel('my-channel-1').listen('my-event', function (e) {
   console.log(e);
 });
-Echo.channel('user').listen('UserUpdate', function (e) {
-  console.log(e);
-});
 
 /***/ }),
 
