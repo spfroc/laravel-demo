@@ -3,6 +3,8 @@
 namespace App\Console\Commands;
 
 use App\Events\SendNotification;
+use App\Events\UserUpdate;
+use App\Models\User;
 use Illuminate\Console\Command;
 
 class BroadcastTest extends Command
@@ -38,7 +40,10 @@ class BroadcastTest extends Command
      */
     public function handle()
     {
-        SendNotification::dispatch();
+        $user = User::find(1);
+//        dd($user);
+//        UserUpdate::dispatch($user);
+        event(new UserUpdate($user));
 //        return 0;
     }
 }

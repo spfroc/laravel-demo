@@ -2,6 +2,7 @@
 
 namespace App\Console\Commands;
 
+use App\Models\User;
 use Illuminate\Console\Command;
 use Pusher\Pusher;
 
@@ -44,7 +45,8 @@ class PusherTest extends Command
             config('broadcasting.connections.pusher.app_id'),
             config('broadcasting.connections.pusher.options')
         );
-        var_dump($pusher->trigger(['my-channel-1', 'my-channel-2', 'my-channel-3'], 'my-event', array('message' => 'hello world')));
+        $user = User::find(1);
+        var_dump($pusher->trigger(['user'], 'UserUpdate', $user));
 
     }
 }
