@@ -1844,6 +1844,9 @@ __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 console.log(111111111111111);
 Echo.join("test.channel");
+Echo.channel('my-channel-1').listen('my-event', function (e) {
+  console.log(e);
+});
 
 /***/ }),
 
