@@ -1842,9 +1842,14 @@ module.exports = {
 
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
-Echo.channel('my-channel-1').listen('my-event', function (e) {
+console.log(22222);
+Echo.channel('user_notify_1').listen('OrderStatusChanged', function (e) {
+  console.log(11111111);
   console.log(e);
+}).notification(function (notification) {
+  console.log(notification);
 });
+console.log(33333);
 
 /***/ }),
 
