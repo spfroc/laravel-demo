@@ -19,6 +19,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::get('posts', 'PostController@index');
+Route::get('product/detail', [\App\Http\Controllers\API\ProductController::class, 'detail']);
 Route::group(['prefix' => 'post'], function () {
     Route::post('add', 'PostController@add');
     Route::get('edit/{id}', 'PostController@edit');

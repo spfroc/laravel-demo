@@ -1924,7 +1924,1166 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      productId: 0,
+      api: '/api/product/detail?id=',
+      product: {
+        attributes: "[]",
+        brandNO: null,
+        brand_name: "Comix/齐心",
+        "case": null,
+        category: "15894",
+        category_path: "Y15889-E15894",
+        code_69: null,
+        compID: "YI20210304",
+        created_at: "2021-03-29T09:19:41.000000Z",
+        del_state: 0,
+        deleted_at: "2021-03-29 17:19:41",
+        goods_date: null,
+        goods_number: null,
+        id: 77,
+        image_path: "https://resource.donvv.com/1/GoodsPhoto/2020/1/14/75c459af0dc37bc20b6fc1e4230ec1dc.jpg",
+        images: '[{"path":"https:\/\/resource.donvv.com\/1\/GoodsPhoto\/2020\/1\/14\/75c459af0dc37bc20b6fc1e4230ec1dc.jpg","order":0}]',
+        introduction: '<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/93bfee539f6f2675d0d4f74d69b9f82a.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/f1fb16bfad475c3be40e660d8c3c1517.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/ba9706255b65eb3e5aed863b0bb035df.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/7f5b3f5dae8414cd30d7462f0a455420.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/d2c49c3d3d4324a070acd17675464347.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/c20591fef010e6c745341cf188959c26.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/0d0b359574291995d61c966be0f71ca4.jpg"/></p><p><img src="https://resource.donvv.com/1/GoodsPhoto/2020/1/14/f6ab4107290ec417d84f6b2fa0971d05.jpg"/></p>',
+        lock_stock_num: 0,
+        mall_price: "0.42",
+        model: "C4784",
+        name: "齐心（COMIX）晶纯高速王打印 A4复印纸 C4784 A4 80g 500张/包 单包",
+        param: "<table><tr><td>品牌</td><td>OLOEY</td></tr><tr><td>类型</td><td>复印纸</td></tr><tr><td>包装</td><td>500张/包</td></tr></table>",
+        platNO: "ZF00004",
+        price: "0.40",
+        product_area: null,
+        purity: null,
+        sale_actives: 0,
+        service: null,
+        sku: "YZS1615859163",
+        state: 2,
+        stock_num: 100,
+        unit: null,
+        upc: null,
+        updated_at: "2021-03-29T09:19:41.000000Z",
+        url: "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_145|p_1043691",
+        ware: null,
+        weight: "0.00",
+        company: {
+          id: 0,
+          compID: '',
+          compName: ''
+        }
+      }
+    };
+  },
+  created: function created() {
+    var _this = this;
+
+    this.productId = this.$route.query.id;
+    axios.get(this.api + this.$route.query.id).then(function (res) {
+      _this.product = res.data;
+      _this.product.introduction += "<style>img { width: 100% }</style>";
+    });
+    console.log(this.$route.query);
+  },
   watch: {
     $route: function $route() {
       $("#navbarCollapse").collapse("hide");
@@ -6574,6 +7733,110 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_3__.default({
 })));
 //# sourceMappingURL=bootstrap.js.map
 
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css&":
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css& ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
+___CSS_LOADER_EXPORT___.push([module.id, "@import url(http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/css/public.css);"]);
+___CSS_LOADER_EXPORT___.push([module.id, "@import url(http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/css/base.css);"]);
+___CSS_LOADER_EXPORT___.push([module.id, "@import url(http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/css/product.css);"]);
+___CSS_LOADER_EXPORT___.push([module.id, "@import url(http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/assets/css/magnifier.css);"]);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, "\n.detail-div img[data-v-9087fe26] {\n    width: 100%\n}\n\n\n\n\n\n", ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/api.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+/*
+  MIT License http://www.opensource.org/licenses/mit-license.php
+  Author Tobias Koppers @sokra
+*/
+// css base code, injected by the css-loader
+// eslint-disable-next-line func-names
+module.exports = function (cssWithMappingToString) {
+  var list = []; // return the list of modules as css string
+
+  list.toString = function toString() {
+    return this.map(function (item) {
+      var content = cssWithMappingToString(item);
+
+      if (item[2]) {
+        return "@media ".concat(item[2], " {").concat(content, "}");
+      }
+
+      return content;
+    }).join("");
+  }; // import a list of modules into the list
+  // eslint-disable-next-line func-names
+
+
+  list.i = function (modules, mediaQuery, dedupe) {
+    if (typeof modules === "string") {
+      // eslint-disable-next-line no-param-reassign
+      modules = [[null, modules, ""]];
+    }
+
+    var alreadyImportedModules = {};
+
+    if (dedupe) {
+      for (var i = 0; i < this.length; i++) {
+        // eslint-disable-next-line prefer-destructuring
+        var id = this[i][0];
+
+        if (id != null) {
+          alreadyImportedModules[id] = true;
+        }
+      }
+    }
+
+    for (var _i = 0; _i < modules.length; _i++) {
+      var item = [].concat(modules[_i]);
+
+      if (dedupe && alreadyImportedModules[item[0]]) {
+        // eslint-disable-next-line no-continue
+        continue;
+      }
+
+      if (mediaQuery) {
+        if (!item[2]) {
+          item[2] = mediaQuery;
+        } else {
+          item[2] = "".concat(mediaQuery, " and ").concat(item[2]);
+        }
+      }
+
+      list.push(item);
+    }
+  };
+
+  return list;
+};
 
 /***/ }),
 
@@ -43637,6 +44900,315 @@ runtime.setup(pusher_Pusher);
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css&":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_id_9087fe26_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css& */ "./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css&");
+
+            
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_id_9087fe26_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_1__.default, options);
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_id_9087fe26_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js":
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+
+var isOldIE = function isOldIE() {
+  var memo;
+  return function memorize() {
+    if (typeof memo === 'undefined') {
+      // Test for IE <= 9 as proposed by Browserhacks
+      // @see http://browserhacks.com/#hack-e71d8692f65334173fee715c222cb805
+      // Tests for existence of standard globals is to allow style-loader
+      // to operate correctly into non-standard environments
+      // @see https://github.com/webpack-contrib/style-loader/issues/177
+      memo = Boolean(window && document && document.all && !window.atob);
+    }
+
+    return memo;
+  };
+}();
+
+var getTarget = function getTarget() {
+  var memo = {};
+  return function memorize(target) {
+    if (typeof memo[target] === 'undefined') {
+      var styleTarget = document.querySelector(target); // Special case to return head of iframe instead of iframe itself
+
+      if (window.HTMLIFrameElement && styleTarget instanceof window.HTMLIFrameElement) {
+        try {
+          // This will throw an exception if access to iframe is blocked
+          // due to cross-origin restrictions
+          styleTarget = styleTarget.contentDocument.head;
+        } catch (e) {
+          // istanbul ignore next
+          styleTarget = null;
+        }
+      }
+
+      memo[target] = styleTarget;
+    }
+
+    return memo[target];
+  };
+}();
+
+var stylesInDom = [];
+
+function getIndexByIdentifier(identifier) {
+  var result = -1;
+
+  for (var i = 0; i < stylesInDom.length; i++) {
+    if (stylesInDom[i].identifier === identifier) {
+      result = i;
+      break;
+    }
+  }
+
+  return result;
+}
+
+function modulesToDom(list, options) {
+  var idCountMap = {};
+  var identifiers = [];
+
+  for (var i = 0; i < list.length; i++) {
+    var item = list[i];
+    var id = options.base ? item[0] + options.base : item[0];
+    var count = idCountMap[id] || 0;
+    var identifier = "".concat(id, " ").concat(count);
+    idCountMap[id] = count + 1;
+    var index = getIndexByIdentifier(identifier);
+    var obj = {
+      css: item[1],
+      media: item[2],
+      sourceMap: item[3]
+    };
+
+    if (index !== -1) {
+      stylesInDom[index].references++;
+      stylesInDom[index].updater(obj);
+    } else {
+      stylesInDom.push({
+        identifier: identifier,
+        updater: addStyle(obj, options),
+        references: 1
+      });
+    }
+
+    identifiers.push(identifier);
+  }
+
+  return identifiers;
+}
+
+function insertStyleElement(options) {
+  var style = document.createElement('style');
+  var attributes = options.attributes || {};
+
+  if (typeof attributes.nonce === 'undefined') {
+    var nonce =  true ? __webpack_require__.nc : 0;
+
+    if (nonce) {
+      attributes.nonce = nonce;
+    }
+  }
+
+  Object.keys(attributes).forEach(function (key) {
+    style.setAttribute(key, attributes[key]);
+  });
+
+  if (typeof options.insert === 'function') {
+    options.insert(style);
+  } else {
+    var target = getTarget(options.insert || 'head');
+
+    if (!target) {
+      throw new Error("Couldn't find a style target. This probably means that the value for the 'insert' parameter is invalid.");
+    }
+
+    target.appendChild(style);
+  }
+
+  return style;
+}
+
+function removeStyleElement(style) {
+  // istanbul ignore if
+  if (style.parentNode === null) {
+    return false;
+  }
+
+  style.parentNode.removeChild(style);
+}
+/* istanbul ignore next  */
+
+
+var replaceText = function replaceText() {
+  var textStore = [];
+  return function replace(index, replacement) {
+    textStore[index] = replacement;
+    return textStore.filter(Boolean).join('\n');
+  };
+}();
+
+function applyToSingletonTag(style, index, remove, obj) {
+  var css = remove ? '' : obj.media ? "@media ".concat(obj.media, " {").concat(obj.css, "}") : obj.css; // For old IE
+
+  /* istanbul ignore if  */
+
+  if (style.styleSheet) {
+    style.styleSheet.cssText = replaceText(index, css);
+  } else {
+    var cssNode = document.createTextNode(css);
+    var childNodes = style.childNodes;
+
+    if (childNodes[index]) {
+      style.removeChild(childNodes[index]);
+    }
+
+    if (childNodes.length) {
+      style.insertBefore(cssNode, childNodes[index]);
+    } else {
+      style.appendChild(cssNode);
+    }
+  }
+}
+
+function applyToTag(style, options, obj) {
+  var css = obj.css;
+  var media = obj.media;
+  var sourceMap = obj.sourceMap;
+
+  if (media) {
+    style.setAttribute('media', media);
+  } else {
+    style.removeAttribute('media');
+  }
+
+  if (sourceMap && typeof btoa !== 'undefined') {
+    css += "\n/*# sourceMappingURL=data:application/json;base64,".concat(btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap)))), " */");
+  } // For old IE
+
+  /* istanbul ignore if  */
+
+
+  if (style.styleSheet) {
+    style.styleSheet.cssText = css;
+  } else {
+    while (style.firstChild) {
+      style.removeChild(style.firstChild);
+    }
+
+    style.appendChild(document.createTextNode(css));
+  }
+}
+
+var singleton = null;
+var singletonCounter = 0;
+
+function addStyle(obj, options) {
+  var style;
+  var update;
+  var remove;
+
+  if (options.singleton) {
+    var styleIndex = singletonCounter++;
+    style = singleton || (singleton = insertStyleElement(options));
+    update = applyToSingletonTag.bind(null, style, styleIndex, false);
+    remove = applyToSingletonTag.bind(null, style, styleIndex, true);
+  } else {
+    style = insertStyleElement(options);
+    update = applyToTag.bind(null, style, options);
+
+    remove = function remove() {
+      removeStyleElement(style);
+    };
+  }
+
+  update(obj);
+  return function updateStyle(newObj) {
+    if (newObj) {
+      if (newObj.css === obj.css && newObj.media === obj.media && newObj.sourceMap === obj.sourceMap) {
+        return;
+      }
+
+      update(obj = newObj);
+    } else {
+      remove();
+    }
+  };
+}
+
+module.exports = function (list, options) {
+  options = options || {}; // Force single-tag solution on IE6-9, which has a hard limit on the # of <style>
+  // tags it will allow on a page
+
+  if (!options.singleton && typeof options.singleton !== 'boolean') {
+    options.singleton = isOldIE();
+  }
+
+  list = list || [];
+  var lastIdentifiers = modulesToDom(list, options);
+  return function update(newList) {
+    newList = newList || [];
+
+    if (Object.prototype.toString.call(newList) !== '[object Array]') {
+      return;
+    }
+
+    for (var i = 0; i < lastIdentifiers.length; i++) {
+      var identifier = lastIdentifiers[i];
+      var index = getIndexByIdentifier(identifier);
+      stylesInDom[index].references--;
+    }
+
+    var newLastIdentifiers = modulesToDom(newList, options);
+
+    for (var _i = 0; _i < lastIdentifiers.length; _i++) {
+      var _identifier = lastIdentifiers[_i];
+
+      var _index = getIndexByIdentifier(_identifier);
+
+      if (stylesInDom[_index].references === 0) {
+        stylesInDom[_index].updater();
+
+        stylesInDom.splice(_index, 1);
+      }
+    }
+
+    lastIdentifiers = newLastIdentifiers;
+  };
+};
+
+/***/ }),
+
 /***/ "./resources/js/components/ExampleComponent.vue":
 /*!******************************************************!*\
   !*** ./resources/js/components/ExampleComponent.vue ***!
@@ -43687,23 +45259,25 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _App_vue_vue_type_template_id_9087fe26___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.vue?vue&type=template&id=9087fe26& */ "./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&");
+/* harmony import */ var _App_vue_vue_type_template_id_9087fe26_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.vue?vue&type=template&id=9087fe26&scoped=true& */ "./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&scoped=true&");
 /* harmony import */ var _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App.vue?vue&type=script&lang=js& */ "./resources/js/layouts/App.vue?vue&type=script&lang=js&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _App_vue_vue_type_style_index_0_id_9087fe26_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css& */ "./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
 
+;
 
 
 /* normalize component */
-;
-var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__.default)(
   _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
-  _App_vue_vue_type_template_id_9087fe26___WEBPACK_IMPORTED_MODULE_0__.render,
-  _App_vue_vue_type_template_id_9087fe26___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  _App_vue_vue_type_template_id_9087fe26_scoped_true___WEBPACK_IMPORTED_MODULE_0__.render,
+  _App_vue_vue_type_template_id_9087fe26_scoped_true___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
   false,
   null,
-  null,
+  "9087fe26",
   null
   
 )
@@ -43857,6 +45431,19 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css&":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css& ***!
+  \***********************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_dist_cjs_js_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_id_9087fe26_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader/dist/cjs.js!../../../node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css& */ "./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=style&index=0&id=9087fe26&scoped=true&lang=css&");
+
+
+/***/ }),
+
 /***/ "./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e&":
 /*!*************************************************************************************!*\
   !*** ./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e& ***!
@@ -43874,19 +45461,19 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&":
-/*!*********************************************************************!*\
-  !*** ./resources/js/layouts/App.vue?vue&type=template&id=9087fe26& ***!
-  \*********************************************************************/
+/***/ "./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&scoped=true&":
+/*!*********************************************************************************!*\
+  !*** ./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&scoped=true& ***!
+  \*********************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_template_id_9087fe26___WEBPACK_IMPORTED_MODULE_0__.render),
-/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_template_id_9087fe26___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_template_id_9087fe26_scoped_true___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_template_id_9087fe26_scoped_true___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
 /* harmony export */ });
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_template_id_9087fe26___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./App.vue?vue&type=template&id=9087fe26& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&");
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_template_id_9087fe26_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./App.vue?vue&type=template&id=9087fe26&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&scoped=true&");
 
 
 /***/ }),
@@ -43973,10 +45560,10 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&":
-/*!************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=template&id=9087fe26& ***!
-  \************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&scoped=true&":
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/layouts/App.vue?vue&type=template&id=9087fe26&scoped=true& ***!
+  \************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -43989,79 +45576,192 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _c(
-      "nav",
-      {
-        staticClass: "navbar navbar-expand-md navbar-light bg-white shadow-sm"
-      },
-      [
+  return _c("div", { staticClass: "container" }, [
+    _vm._m(0),
+    _vm._v(" "),
+    _c("div", { staticClass: "header" }, [
+      _vm._m(1),
+      _vm._v(" "),
+      _c("div", { staticClass: "product-detail clearfix w" }, [
         _c(
-          "router-link",
-          { staticClass: "navbar-brand", attrs: { to: { name: "home" } } },
-          [_vm._v("Laravel-Vue SPA")]
+          "div",
+          { staticClass: "detail-left fl", attrs: { id: "left-box" } },
+          [
+            _c(
+              "div",
+              { staticClass: "MagnifierWrap", attrs: { id: "MagnifierWrap2" } },
+              [
+                _c(
+                  "div",
+                  { staticClass: "box MagnifierMain", attrs: { id: "box" } },
+                  [
+                    _c("img", {
+                      staticClass: "MagnifierImg",
+                      attrs: {
+                        src: _vm.product.image_path,
+                        "data-src":
+                          "https://hxbg.cn/upload/goods/album/12/565fa9fb70c6393.jpg"
+                      }
+                    })
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "spe_leftBtn" }, [_vm._v("<")]),
+                _vm._v(" "),
+                _c("div", { staticClass: "spe_rightBtn" }, [_vm._v(">")]),
+                _vm._v(" "),
+                _vm._m(2)
+              ]
+            )
+          ]
         ),
-        _vm._v(" "),
-        _vm._m(0),
         _vm._v(" "),
         _c(
           "div",
-          {
-            staticClass: "collapse navbar-collapse",
-            attrs: { id: "navbarCollapse" }
-          },
+          { staticClass: "detail-middle fl", attrs: { id: "middle-box" } },
           [
-            _c("ul", { staticClass: "navbar-nav" }, [
+            _c("h2", { attrs: { title: _vm.product.name } }, [
+              _vm._v(_vm._s(_vm.product.name))
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "product-price clearfix" }, [
               _c(
-                "li",
-                { staticClass: "nav-item" },
+                "div",
+                { staticClass: "price fl", attrs: { id: "price-box" } },
                 [
-                  _c(
-                    "router-link",
-                    {
-                      staticClass: "nav-link",
-                      attrs: { "data-toggle": "collapse", to: { name: "home" } }
-                    },
-                    [
-                      _vm._v(
-                        "\n                        Home\n                    "
+                  _c("div", { staticClass: "purchase" }, [
+                    _c("i", [_vm._v("协议价")]),
+                    _vm._v(" "),
+                    _c("span", [_vm._v("￥" + _vm._s(_vm.product.price))])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "official" }, [
+                    _c("i", [_vm._v("官网价")]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "del" }, [
+                      _c(
+                        "a",
+                        {
+                          attrs: {
+                            href:
+                              "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_512777",
+                            target: "_blank"
+                          }
+                        },
+                        [_vm._v("￥" + _vm._s(_vm.product.mall_price))]
                       )
-                    ]
-                  )
-                ],
-                1
+                    ]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "save-span" }, [
+                      _vm._v(
+                        "（节约￥" +
+                          _vm._s(_vm.product.mall_price - _vm.product.price) +
+                          "）"
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _vm._m(3)
+                  ])
+                ]
               ),
               _vm._v(" "),
-              _c(
-                "li",
-                { staticClass: "nav-item" },
-                [
-                  _c(
-                    "router-link",
-                    {
-                      staticClass: "nav-link",
-                      attrs: {
-                        "data-toggle": "collapse",
-                        to: { name: "about" }
-                      }
-                    },
-                    [
-                      _vm._v(
-                        "\n                        About\n                    "
-                      )
-                    ]
-                  )
-                ],
-                1
-              )
+              _vm._m(4)
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "form clearfix" }, [
+              _c("div", { staticClass: "inpt-list inpt1" }, [
+                _c("span", { staticClass: "supplier-span" }, [
+                  _vm._v("供应商 ")
+                ]),
+                _vm._v(" "),
+                _c("span", { staticClass: "txt" }, [
+                  _vm._v(_vm._s(_vm.product.company.compName))
+                ]),
+                _vm._v(" "),
+                _vm._m(5),
+                _vm._v(" "),
+                _vm._m(6),
+                _vm._v(" "),
+                _vm._m(7)
+              ])
             ])
           ]
-        )
-      ],
-      1
-    ),
-    _vm._v(" "),
-    _c("div", { staticClass: "container" }, [_c("router-view")], 1)
+        ),
+        _vm._v(" "),
+        _vm._m(8)
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "goods-show clearfix w" }, [
+        _vm._m(9),
+        _vm._v(" "),
+        _c("div", { staticClass: "show-right fr" }, [
+          _vm._m(10),
+          _vm._v(" "),
+          _c("div", { staticClass: "parameter clearfix" }, [
+            _c(
+              "div",
+              { staticClass: "key-parameter act", attrs: { id: "key-box" } },
+              [
+                _vm._m(11),
+                _vm._v(" "),
+                _c("div", {
+                  staticClass: "more-detail",
+                  domProps: { innerHTML: _vm._s(_vm.product.param) }
+                }),
+                _vm._v(" "),
+                _c("div", {
+                  staticClass: "detail-div",
+                  domProps: { innerHTML: _vm._s(_vm.product.introduction) }
+                })
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "specifications",
+                attrs: { id: "specifications-box" }
+              },
+              [
+                _c("div", { staticClass: "specifications-detail" }, [
+                  _c("div", { staticClass: "specifications-item" }, [
+                    _c("table", { staticClass: "Ptable" }, [
+                      _c("tbody", [
+                        _vm._m(12),
+                        _vm._v(" "),
+                        _c("tr", [
+                          _c("td", { staticClass: "tdTitle" }, [
+                            _vm._v("品牌")
+                          ]),
+                          _vm._v(" "),
+                          _c("td", [_vm._v(_vm._s(_vm.product.brand_name))])
+                        ]),
+                        _vm._v(" "),
+                        _c("tr", [
+                          _c("td", { staticClass: "tdTitle" }, [
+                            _vm._v("型号")
+                          ]),
+                          _vm._v(" "),
+                          _c("td", [_vm._v(_vm._s(_vm.product.model))])
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _vm._m(13),
+            _vm._v(" "),
+            _vm._m(14)
+          ]),
+          _vm._v(" "),
+          _vm._m(15)
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "container" }, [_c("router-view")], 1)
+    ])
   ])
 }
 var staticRenderFns = [
@@ -44069,14 +45769,2593 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "top-bar" }, [
+      _c("div", { staticClass: "top-bar" }, [
+        _c("div", { staticClass: "top w" }, [
+          _c(
+            "div",
+            { staticClass: "top-left fl", attrs: { id: "login-info" } },
+            [
+              _c("span", { staticClass: "home-entrance goIndex" }, [
+                _c("img", {
+                  attrs: {
+                    src:
+                      "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/index-images/home.png"
+                  }
+                }),
+                _vm._v("首页")
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "mySite" }, [
+                _c("span", { staticClass: "textSpan" }, [
+                  _c("span", { staticClass: "siteText" }, [_vm._v("山东省")])
+                ]),
+                _vm._v(" "),
+                _c("span", { staticClass: "switchSpan" }, [_vm._v("切换")]),
+                _vm._v(" "),
+                _c("div", { staticClass: "siteList" }, [
+                  _c("div", { staticClass: "firstList fl" }, [
+                    _c("ul", [
+                      _c("li", { attrs: { value: "1", title: "山东省" } }, [
+                        _vm._v("山东省")
+                      ]),
+                      _c("li", { attrs: { value: "2", title: "临沂市" } }, [
+                        _vm._v("临沂市")
+                      ]),
+                      _c("li", { attrs: { value: "3", title: "淄博市" } }, [
+                        _vm._v("淄博市")
+                      ]),
+                      _c("li", { attrs: { value: "4", title: "日照市" } }, [
+                        _vm._v("日照市")
+                      ]),
+                      _c("li", { attrs: { value: "5", title: "威海市" } }, [
+                        _vm._v("威海市")
+                      ]),
+                      _c("li", { attrs: { value: "6", title: "济南市" } }, [
+                        _vm._v("济南市")
+                      ]),
+                      _c("li", { attrs: { value: "7", title: "济宁市" } }, [
+                        _vm._v("济宁市")
+                      ]),
+                      _c("li", { attrs: { value: "8", title: "德州市" } }, [
+                        _vm._v("德州市")
+                      ]),
+                      _c("li", { attrs: { value: "9", title: "枣庄市" } }, [
+                        _vm._v("枣庄市")
+                      ]),
+                      _c("li", { attrs: { value: "10", title: "潍坊市" } }, [
+                        _vm._v("潍坊市")
+                      ]),
+                      _c("li", { attrs: { value: "11", title: "东营市" } }, [
+                        _vm._v("东营市")
+                      ]),
+                      _c("li", { attrs: { value: "12", title: "泰安市" } }, [
+                        _vm._v("泰安市")
+                      ]),
+                      _c("li", { attrs: { value: "13", title: "聊城市" } }, [
+                        _vm._v("聊城市")
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("span", [_vm._v("您好，欢迎来到山东省政府采购网上商城！")]),
+              _vm._v(" "),
+              _c("span", { staticClass: "top-login" }, [
+                _c("a", { attrs: { href: "javascript:void(0);" } }, [
+                  _vm._v("【请登录】")
+                ])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("ul", { staticClass: "top-right fr" }, [
+            _c("li", { attrs: { id: "cart-info" } }),
+            _vm._v(" "),
+            _c(
+              "li",
+              { staticClass: "suggestion fr", attrs: { id: "suggestion" } },
+              [_vm._v("意见反馈")]
+            )
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("script", { attrs: { id: "loginInfoTemplate", type: "text/html" } }, [
+        _vm._v(
+          '\n  <span class="home-entrance goIndex"><img src="http://ggzyjyzx.shandong.gov.cn/wssc/attach/sdszfcg/setting/images/index-images/home.png">首页</span>\n  <!-- 新增站点跳转配置 -->\n  <div class="mySite">\n      <span class="textSpan">\n          <span class="siteText">山东省</span>\n      </span>\n  \t\t<span class="switchSpan">切换</span>\n      <div class="siteList">\n          <div class="firstList fl">\n              <ul>\n              </ul>\n          </div>\n          <!-- <div class="secondList fl">\n              <ul>\n              </ul>\n          </div> -->\n      </div>\n  </div>\n\n    <span class="top-login" ><a href="javascript:void(0);">【请登录】</a></span>\n\n '
+        )
+      ]),
+      _vm._v(" "),
+      _c("script", { attrs: { id: "cartInfoTemplate", type: "text/html" } }, [
+        _vm._v(
+          '\n  <a href="#">\n    <i><img src="http://ggzyjyzx.shandong.gov.cn/wssc/attach/sdszfcg/setting/images/index-images/car.png" alt="">我的购物车</i>\n    <span class="top-num" >0</span>\n  </a>\n'
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "header" }, [
+      _c("div", { staticClass: "w" }, [
+        _c("div", { staticClass: "logo fl" }, [
+          _c("span", { staticClass: "goIndex" }, [
+            _c("img", {
+              attrs: {
+                src:
+                  "http://ggzyjyzx.shandong.gov.cn/wssc/attach/sdszfcg/setting/image/upload/20200426181011.png",
+                alt: ""
+              }
+            })
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "search fr" }, [
+          _c("div", { staticClass: "search-up" }, [
+            _c("div", { staticClass: "goods-select fl" }, [
+              _vm._v("商品  "),
+              _c("img", {
+                attrs: {
+                  src:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/index-images/jiantou2.png",
+                  alt: ""
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("input", {
+              attrs: {
+                type: "text",
+                placeholder: "请输入关键词",
+                id: "keywords"
+              }
+            }),
+            _vm._v(" "),
+            _c("div", { staticClass: "search-up-img searchCase" }, [
+              _c("img", {
+                attrs: {
+                  src:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/index-images/search.png",
+                  alt: ""
+                }
+              })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("ul", { staticClass: "search-btm clearfix" }, [
+            _c("li", [
+              _c("a", { attrs: { href: "javascript: void(0);" } }, [
+                _vm._v("电脑办公")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "javascript: void(0);" } }, [
+                _vm._v("电脑用品")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "javascript: void(0);" } }, [
+                _vm._v("数码通讯")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "javascript: void(0);" } }, [
+                _vm._v("家用电器")
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "spec-items" }, [
+      _c("ul", { staticClass: "img-list clearfix" }, [
+        _c("li", { staticClass: "on" }, [
+          _c("img", {
+            attrs: {
+              src: "https://hxbg.cn/upload/goods/album/12/565fa9fb70c6393.jpg",
+              alt: "",
+              "data-lsrc":
+                "https://hxbg.cn/upload/goods/album/12/565fa9fb70c6393.jpg",
+              "data-maxsrc":
+                "https://hxbg.cn/upload/goods/album/12/565fa9fb70c6393.jpg"
+            }
+          })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("span", [
+      _c(
+        "a",
+        {
+          staticClass: "check-css",
+          attrs: {
+            href:
+              "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_512777",
+            target: "_blank"
+          }
+        },
+        [_vm._v("查看 >>")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "sales-volume fr" }, [
+      _c("p", [_c("i", [_vm._v("总销量")])]),
+      _vm._v(" "),
+      _c("p", [_c("i", [_vm._v("0")])])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "inpt-list inpt2" }, [
+      _c("span", { staticClass: "fl delivery-place" }, [_vm._v("配送至")]),
+      _vm._v(" "),
+      _c("input", {
+        attrs: { id: "current_county_id", type: "hidden", value: "370101" }
+      }),
+      _vm._v(" "),
+      _c("input", {
+        staticClass: "city_input  current2 proCitySelAll",
+        attrs: {
+          type: "text",
+          id: "location",
+          readonly: "",
+          name: "location",
+          value: "山东省济南市"
+        }
+      }),
+      _vm._v(" "),
+      _c("link", { attrs: { href: "", media: "screen", rel: "stylesheet" } }),
+      _vm._v(" "),
+      _c("div", { staticClass: "provinceCityAll" }, [
+        _c("div", { staticClass: "tabs clearfix" }, [
+          _c("ul", {}, [
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "current",
+                  attrs: { href: "javascript:;", tb: "provinceAll" }
+                },
+                [_vm._v("省份")]
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  attrs: { href: "javascript:;", tb: "cityAll", id: "cityAll" }
+                },
+                [_vm._v("城市")]
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  attrs: {
+                    href: "javascript:;",
+                    tb: "countyAll",
+                    id: "countyAll"
+                  }
+                },
+                [_vm._v("区县")]
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "con" }, [
+          _c("div", { staticClass: "provinceAll invis" }, [
+            _c("div", { staticClass: "list" }, [
+              _c("ul", [_c("li")]),
+              _vm._v(" "),
+              _c(
+                "label",
+                {
+                  staticStyle: { display: "none" },
+                  attrs: { id: "provincePage1" }
+                },
+                [_vm._v("1")]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "cityAll invis", staticStyle: { display: "none" } },
+            [_c("div", { staticClass: "list" }, [_c("ul")])]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "countyAll invis",
+              staticStyle: { display: "none" }
+            },
+            [_c("div", { staticClass: "list" }, [_c("ul")])]
+          )
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "inpt-list" }, [
+      _c("span", { staticClass: "fl purchase-span" }, [_vm._v("购买数量")]),
+      _vm._v(" "),
+      _c("div", { staticClass: "controls fl " }, [
+        _c(
+          "div",
+          {
+            staticClass: "input-amount js-item-stock-quantity fl",
+            attrs: { "data-max": "" }
+          },
+          [
+            _c(
+              "a",
+              {
+                staticClass: "disabled minus",
+                attrs: { href: "javascript:void(0);" }
+              },
+              [_vm._v("-")]
+            ),
+            _vm._v(" "),
+            _c("input", {
+              staticClass: "count-number",
+              attrs: {
+                value: "1",
+                id: "item-quantity",
+                maxlength: "5",
+                "data-old": "1",
+                "data-max-stock": ""
+              }
+            }),
+            _vm._v(" "),
+            _c(
+              "a",
+              { staticClass: "plus", attrs: { href: "javascript:void(0);" } },
+              [_vm._v("+")]
+            )
+          ]
+        ),
+        _vm._v(" "),
+        _c("span", { staticClass: "total-stock fl", attrs: { id: "stock" } }, [
+          _vm._v("有货")
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { attrs: { id: "optBox" } }, [
+      _c("div", { staticClass: "button button-css1" }, [
+        _c("a", { attrs: { href: "javascript:void(0);" } }, [
+          _vm._v("请先登录")
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c(
-      "button",
-      {
-        staticClass: "navbar-toggler",
-        attrs: { "data-toggle": "collapse", "data-target": "#navbarCollapse" }
-      },
-      [_c("span", { staticClass: "navbar-toggler-icon" })]
+      "div",
+      { staticClass: "detail-right fr", attrs: { id: "right-box" } },
+      [
+        _c("div", { staticClass: "alert" }, [
+          _c("p", { staticClass: "tishi" }, [
+            _c("img", {
+              attrs: {
+                src:
+                  "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/tishi.png",
+                alt: ""
+              }
+            }),
+            _vm._v("风险提示")
+          ]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "本商品如用于基本办公使用，须执行本级行政事业单位通用资产配置标准限额要求，不得超标准采购。"
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "other" }, [
+          _c("div", { staticClass: "title" }, [
+            _c("span", { staticClass: "title-pic" }, [
+              _c("img", {
+                attrs: {
+                  src:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/on.png",
+                  alt: ""
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("span", [_vm._v("该产品其他在售商家")]),
+            _vm._v(" "),
+            _c("span", { staticClass: "on-sell" }, [
+              _vm._v("该商品有33个报价")
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "comparison" }, [
+              _c("a", { attrs: { href: "javascript:void(0);" } }, [
+                _vm._v("商品对比")
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tableBox" }, [
+            _c(
+              "table",
+              { staticClass: "main clearfix", attrs: { id: "mainContrast" } },
+              [
+                _c("tr", [
+                  _c("th", { staticClass: "round" }),
+                  _vm._v(" "),
+                  _c("th", { staticClass: "span-name" }, [_vm._v("供应商")]),
+                  _vm._v(" "),
+                  _c("th", [_vm._v("本网价")]),
+                  _vm._v(" "),
+                  _c("th", [_vm._v("官网价")])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-462630"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "青岛康悦电子科技有限公司" }
+                    },
+                    [_vm._v("青岛康悦电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_462630"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.yueserve.com/goods.php?id=14766",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-512777"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "青岛海翔伟业网络科技有限公司" }
+                    },
+                    [_vm._v("青岛海翔伟业网络科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_512777"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "https://hxbg.cn/goods/index.html?id=7203",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3062.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-513745"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东远帆办公设备有限公司" }
+                    },
+                    [_vm._v("山东远帆办公设备有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_513745"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3325.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.yfjtoa.com/Home/Goods/goods/id/18.html",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3500.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-566712"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "临沂佳彩办公设备有限公司" }
+                    },
+                    [_vm._v("临沂佳彩办公设备有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_566712"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.lyjcsc.cn/Home/Goods/goods/id/189.html",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3325.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-673745"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "滕州恒信远达信息科技有限公司" }
+                    },
+                    [_vm._v("滕州恒信远达信息科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_673745"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.tengzhouoa.com/Goods/Detail2/77782",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3352.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-676159"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "兰陵县创新电脑科技有限公司" }
+                    },
+                    [_vm._v("兰陵县创新电脑科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_676159"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.llcxkj.com.cn/goods.php?id=16",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3350.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-701638"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东思索智能技术股份有限公司" }
+                    },
+                    [_vm._v("山东思索智能技术股份有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_701638"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2995.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.sisuoshop.cn/product/detail/9223",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3056.13")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-701658"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东思索智能技术股份有限公司" }
+                    },
+                    [_vm._v("山东思索智能技术股份有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_701658"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.sisuoshop.cn/product/detail/9225",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3265.31")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-710905"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "日照吉星电子科技有限公司" }
+                    },
+                    [_vm._v("日照吉星电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_710905"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2900.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://jixingshop.com/zhengcai/goods/details/597",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3000.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-727811"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "临沂澳利电子科技有限公司" }
+                    },
+                    [_vm._v("临沂澳利电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_727811"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.linyiaoli.com/goods.php?id=1637",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-822188"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "枣庄市卓尔建商贸有限公司" }
+                    },
+                    [_vm._v("枣庄市卓尔建商贸有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_822188"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2900.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.zhuoerjian.com/zhengcai/goods/details/30850",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3000.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-822199"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "枣庄市卓尔建商贸有限公司" }
+                    },
+                    [_vm._v("枣庄市卓尔建商贸有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_822199"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.zhuoerjian.com/zhengcai/goods/details/30855",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-822202"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "枣庄市卓尔建商贸有限公司" }
+                    },
+                    [_vm._v("枣庄市卓尔建商贸有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_822202"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.zhuoerjian.com/zhengcai/goods/details/30854",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3062.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-822207"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "枣庄市卓尔建商贸有限公司" }
+                    },
+                    [_vm._v("枣庄市卓尔建商贸有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_822207"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.zhuoerjian.com/zhengcai/goods/details/30865",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3350.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-878081"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "济南佳联电讯设备有限公司" }
+                    },
+                    [_vm._v("济南佳联电讯设备有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_878081"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2990.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://jnjLsc.cn/Home/Goods/goods/id/40.html",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1003819"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东圣励电子科技有限公司" }
+                    },
+                    [_vm._v("山东圣励电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1003819"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2880.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _vm._v(
+                      "\n\n                                        ￥3200.00\n\n                                    "
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1026806"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东冠宸信息科技有限公司" }
+                    },
+                    [_vm._v("山东冠宸信息科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1026806"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.sdguanchen.com/goods.php?id=83",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1080248"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "枣庄市隆丰电子科技有限公司" }
+                    },
+                    [_vm._v("枣庄市隆丰电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1080248"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.zzlongfeng.com/goods.php?id=1711",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1120982"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "东营市恒泰商贸有限责任公司" }
+                    },
+                    [_vm._v("东营市恒泰商贸有限责任公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1120982"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3070.17\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.htscmall.com/Goods/Detail2/296260",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3699.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1121100"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "东营市恒泰商贸有限责任公司" }
+                    },
+                    [_vm._v("东营市恒泰商贸有限责任公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1121100"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2904.17\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.htscmall.com/Goods/Detail2/296247",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3499.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1122190"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "东营市恒泰商贸有限责任公司" }
+                    },
+                    [_vm._v("东营市恒泰商贸有限责任公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1122190"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3070.17\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.htscmall.com/Goods/Detail2/296186",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3699.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1152289"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "临沂星旭网络科技有限公司" }
+                    },
+                    [_vm._v("临沂星旭网络科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1152289"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://lyxxwl.com/zhengcai/goods/details/634",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3350.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1157489"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "耘创（山东）数字科技有限公司" }
+                    },
+                    [_vm._v("耘创（山东）数字科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1157489"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2800.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_512777",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥2999.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1162138"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东华章电子商务有限公司" }
+                    },
+                    [_vm._v("山东华章电子商务有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1162138"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2980.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://sdhzdz.cn/goods.php?id=2078",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3056.13")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1167447"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "淄博麦田网络科技有限公司" }
+                    },
+                    [_vm._v("淄博麦田网络科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1167447"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2999.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://maitianwangluo.com/Home/Goods/goods/id/143.html",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3060.21")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1171549"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "济南海天世纪电子科技有限公司" }
+                    },
+                    [_vm._v("济南海天世纪电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1171549"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.jnhtsj.cn/goods.php?id=709",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3325.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1212144"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "兰陵县创安电子科技有限公司" }
+                    },
+                    [_vm._v("兰陵县创安电子科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1212144"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://www.cadzkj.com/zhengcai/goods/details/990",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3350.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1447508"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "临沂金瑞信息技术有限公司" }
+                    },
+                    [_vm._v("临沂金瑞信息技术有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1447508"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2900.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://linyijinrui.com/zhengcai/goods/details/531",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3000.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1484866"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "临沂瑞辰办公用品有限公司" }
+                    },
+                    [_vm._v("临沂瑞辰办公用品有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1484866"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2904.17\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.lyznbg.com/goods.php?id=426",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3499.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1493452"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "济南章杰电讯工程有限公司" }
+                    },
+                    [_vm._v("济南章杰电讯工程有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1493452"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2900.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://jnzhangjie.com/zhengcai/goods/details/665",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3000.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1521879"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "滕州理信数码办公设备有限公司" }
+                    },
+                    [_vm._v("滕州理信数码办公设备有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1521879"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2900.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://www.tzlxsm.com/goods.php?id=789",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3480.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1529064"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "济南芳卓信息科技有限公司" }
+                    },
+                    [_vm._v("济南芳卓信息科技有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1529064"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥2900.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://jnfzxi.cn/Home/Goods/goods/id/132.html",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3200.00")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticClass: "round" }, [
+                    _c("img", {
+                      staticClass: "checked",
+                      attrs: {
+                        src:
+                          "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/weixuan.png",
+                        alt: "",
+                        id: "contrastListDl-1547467"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "td",
+                    {
+                      staticClass: "span-name",
+                      attrs: { title: "山东创彩智能工程有限公司" }
+                    },
+                    [_vm._v("山东创彩智能工程有限公司")]
+                  ),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price1" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href:
+                            "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1547467"
+                        }
+                      },
+                      [
+                        _vm._v(
+                          "\n\n                                            ￥3200.00\n                                        "
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticClass: "span-price span-price2" }, [
+                    _c(
+                      "a",
+                      {
+                        attrs: {
+                          href: "http://sdccsc.cn/Home/Goods/goods/id/22.html",
+                          target: "_blank"
+                        }
+                      },
+                      [_vm._v("￥3350.00")]
+                    )
+                  ])
+                ])
+              ]
+            )
+          ])
+        ])
+      ]
     )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "show-left fl" }, [
+      _c("div", { staticClass: "recommend", attrs: { id: "recommend-box" } }, [
+        _c("h2", [
+          _c("img", {
+            attrs: {
+              src:
+                "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/goods-list-images/recommend.png",
+              alt: ""
+            }
+          }),
+          _vm._v("商品推荐")
+        ]),
+        _vm._v(" "),
+        _c("ul", { staticClass: "recommend-list clearfix" }, [
+          _c("li", [
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1554149"
+                }
+              },
+              [
+                _c("div", { staticClass: "recommend-pic" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://www.hexuu.com/images/202003/goods_img/0_P_1584728785764.jpg",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "recommend-wrods" }, [
+                  _c("p", [
+                    _vm._v(
+                      "★柯尼卡美能达/Konica Minolta  复合机 bizhub 246 A3黑白 网络打印/复印/扫描"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "price" }, [_vm._v("￥9299.00")])
+                ])
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1553990"
+                }
+              },
+              [
+                _c("div", { staticClass: "recommend-pic" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://www.hexuu.com/images/202003/goods_img/0_P_1584728785764.jpg",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "recommend-wrods" }, [
+                  _c("p", [
+                    _vm._v(
+                      "★柯尼卡美能达/Konica Minolta  复合机 bizhub 246 A3黑白 网络打印/复印/扫描"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "price" }, [_vm._v("￥9299.00")])
+                ])
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1552417"
+                }
+              },
+              [
+                _c("div", { staticClass: "recommend-pic" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://zbxdshop.cn/Public/upload/goods/thumb/113/goods_thumb_113_180_180.jpg",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "recommend-wrods" }, [
+                  _c("p", [_vm._v("e-STUDIO2610AC")]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "price" }, [_vm._v("￥20800.00")])
+                ])
+              ]
+            )
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "ranking", attrs: { id: "ranking-box" } }, [
+        _c("h2", [
+          _c("img", {
+            attrs: {
+              src:
+                "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/goods-list-images/ranking.png",
+              alt: ""
+            }
+          }),
+          _vm._v("商品排行")
+        ]),
+        _vm._v(" "),
+        _c("ul", { staticClass: "ranking-list clearfix" }, [
+          _c("li", [
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_271805"
+                }
+              },
+              [
+                _c("div", { staticClass: "ranking-top" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/goods-list-images/top1.png",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "ranking-pic" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://www.shandongyunpin.com/images/202006/thumb_img/24810_thumb_G_1593391997825.jpg",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "ranking-wrods" }, [
+                  _c("p", [
+                    _vm._v("惠普（HP）M437dn 桌面级 自动双面 打印 A3数码复合机")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "price" }, [_vm._v("￥5005.00")])
+                ])
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_1159515"
+                }
+              },
+              [
+                _c("div", { staticClass: "ranking-top" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/goods-list-images/top2.png",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "ranking-pic" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://www.thldfw.com/Storage/Shop/1/Products/14456/1.png",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "ranking-wrods" }, [
+                  _c("p", [
+                    _vm._v(
+                      "理光（Ricoh）M 2701 A3黑白数码复合机（主机+送稿器+单纸盒）（27页/分钟/彩色复印 /彩色扫描/自动双面输稿器）"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "price" }, [_vm._v("￥7500.00")])
+                ])
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/html/product.html?c_198|p_561913"
+                }
+              },
+              [
+                _c("div", { staticClass: "ranking-top" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/goods-list-images/top3.png",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "ranking-pic" }, [
+                  _c("img", {
+                    attrs: {
+                      src:
+                        "https://resource.donvv.com/1/GoodsPhoto/2020/3/24/fa8b972e4ae3c1a6be74e74742dbdd14.jpg!w250",
+                      alt: ""
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "ranking-wrods" }, [
+                  _c("p", [
+                    _vm._v(
+                      "佳能（Canon）iRC3125 A3彩色数码复合机（双面打印/复印/扫描/WiFi）含双面 双输 原装底柜"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "price" }, [_vm._v("￥18000.00")])
+                ])
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("ul", { staticClass: "title clearfix" }, [
+      _c("li", [
+        _c("span", { staticClass: "span-item" }, [_vm._v("商品详情")])
+      ]),
+      _vm._v(" "),
+      _c("li", { staticClass: "active" }, [
+        _c("span", { staticClass: "span-item" }, [_vm._v("规格参数")])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _c("span", { staticClass: "span-item" }, [_vm._v("用户评价")])
+      ]),
+      _vm._v(" "),
+      _c("li", [_c("span", { staticClass: "span-item" }, [_vm._v("节能环保")])])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h1", [_c("span", [_vm._v("核心参数")])])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("tr", [
+      _c("th", { attrs: { colspan: "2" } }, [_vm._v("基本参数")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "user-review", attrs: { id: "review-box" } },
+      [
+        _c("h1", [_c("span", [_vm._v("用户评价")])]),
+        _vm._v(" "),
+        _c("ul", { staticClass: "review-content clearfix" }, [
+          _c("div", { staticClass: "textCenter" }, [_vm._v("暂无评价")])
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "energy key-parameter", attrs: { id: "energyBox" } },
+      [
+        _c("h1", [_c("span", [_vm._v("节能资质")])]),
+        _vm._v(" "),
+        _c("div", { staticClass: "more-detail" }, [
+          _c("span", [_vm._v("主机节能证书编号：")]),
+          _vm._v(" "),
+          _c("span", [_vm._v("主机证书有效期止：")]),
+          _c("br")
+        ]),
+        _vm._v(" "),
+        _c("span", { staticClass: "energySaveCertAnnex" })
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "explain clearfix" }, [
+      _c("h3", [
+        _c("img", {
+          attrs: {
+            src:
+              "http://ggzyjyzx.shandong.gov.cn/wssc/sdszfcg/mall/images/product-images/jiage.png",
+            alt: ""
+          }
+        }),
+        _vm._v("价格说明:\n                        ")
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "explain-main clearfix" }, [
+        _c("li", [
+          _c("span"),
+          _vm._v("本网价格：供应商在山东省政府采购网上商城出售该商品的价格。")
+        ]),
+        _vm._v(" "),
+        _c("li", [_c("span"), _vm._v("电商平台价：电商自营平台价格")]),
+        _vm._v(" "),
+        _c("li", [
+          _c("span"),
+          _vm._v(
+            "市场参考价：以主流电商平台和其他省市政府采购网上商城中同款商品近期成交均价为基础，结合政采行业成本科学计算而成，作为政府采购参考价。"
+          )
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("span"),
+          _vm._v("成交均价：该商品在山东省政府采购网上商城成交平均价。")
+        ])
+      ])
+    ])
   }
 ]
 render._withStripped = true
@@ -59491,6 +63770,18 @@ Vue.compile = compileToFunctions;
 /******/ 				}
 /******/ 			}
 /******/ 			return result;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/compat get default export */
+/******/ 	(() => {
+/******/ 		// getDefaultExport function for compatibility with non-harmony modules
+/******/ 		__webpack_require__.n = (module) => {
+/******/ 			var getter = module && module.__esModule ?
+/******/ 				() => (module['default']) :
+/******/ 				() => (module);
+/******/ 			__webpack_require__.d(getter, { a: getter });
+/******/ 			return getter;
 /******/ 		};
 /******/ 	})();
 /******/ 	
